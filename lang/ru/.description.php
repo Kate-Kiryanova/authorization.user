@@ -1,0 +1,5 @@
+<?
+$MESS['FLXMD_AUTHORIZATION_USER_COMPONENT_NAME'] = 'Форма авторизации';
+$MESS['FLXMD_AUTHORIZATION_USER_COMPONENT_DESCR'] = 'Форма авторизации пользователя';
+$MESS['FLXMD_AUTHORIZATION_USER_COMPONENT_PATH'] = 'Flex Media';
+?>
